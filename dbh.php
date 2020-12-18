@@ -9,7 +9,7 @@
 define('DB_SERVER', 'remotemysql.com');
 define('DB_USERNAME', 'JH2gC9TryT');
 define('DB_PASSWORD', 'g17u6CQYFp');
-define('DB_NAME', 'mainscaproject');
+define('DB_NAME', 'JH2gC9TryT');
 
 /* Attempt to connect to MySQL database */
 $link = mysqli_connect(DB_SERVER, DB_USERNAME, DB_PASSWORD, DB_NAME);
